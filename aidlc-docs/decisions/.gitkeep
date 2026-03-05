@@ -1,0 +1,11 @@
+# ADR Directory
+
+이 폴더에는 Architecture Decision Records가 저장됩니다.
+
+파일명 형식: `ADR-NNNN-title.md`
+
+## ADR 상태값
+- Proposed
+- Accepted
+- Deprecated
+- Superseded by ADR-NNNN
